@@ -8,7 +8,4 @@ Portfolio personnel développé avec React et Vite.
 - `src/components`: sections React de la page.
 - `src/assets`: image de profil et vidéos des projets.
 
-## Points à surveiller
-
-Les vidéos de projets sont lourdes. Pour une mise en production plus rapide, il est recommandé de générer des versions compressées et des images `poster`.
 "# my-portfolio" 
