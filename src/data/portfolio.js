@@ -41,7 +41,7 @@ export const SKILLS = [
 
 export const PROJECTS = [
   {
-    title: 'Coloc',
+    title: 'ColocManager',
     genre: 'Gestion de colocation',
     role: 'Outil de gestion',
     function: "Gestion des colocations, des dépenses et de leur répartition",
