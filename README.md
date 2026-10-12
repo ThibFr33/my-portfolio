@@ -2,16 +2,6 @@
 
 Portfolio personnel développé avec React et Vite.
 
-## Scripts
-
-```bash
-npm install
-npm run dev
-npm run build
-npm run preview
-npm run lint
-```
-
 ## Structure
 
 - `src/data/portfolio.js`: contenu principal du portfolio.
